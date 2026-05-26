@@ -1,0 +1,14 @@
+.gradle/
+build/
+.idea/
+*.iml
+.vscode/
+out/
+*.class
+*.log
+geckodriver.log
+chromedriver.log
+target/
+bin/
+.DS_Store
+local.properties
